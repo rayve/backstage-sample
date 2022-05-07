@@ -7,10 +7,10 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
   links:
-    - url: https://github.com/swagger-api/swagger-petstore
+    - url: https://github.com/rayve/backstage-sample
       title: GitHub Repo
       icon: github
 spec:
   type: service
   lifecycle: experimental
-  owner: team-c
+  owner: rayve
