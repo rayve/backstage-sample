@@ -2,6 +2,7 @@ site_name: 'petstore-docs'
 
 nav:
   - Home: index.md
+  - Diagram: plant.md
 
 plugins:
   - techdocs-core
