@@ -2,7 +2,7 @@
 @startuml
 ' !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Component.puml
 ' uncomment the following line and comment the first to use locally
-!include C4_Component.puml
+!include <C4/C4_Component>
 
 LAYOUT_WITH_LEGEND()
 
